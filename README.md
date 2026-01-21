@@ -1,2 +1,2 @@
 # skillbox-java-course
-Сдесь я храню историю обучения на Skillbox
+Здесь я храню историю обучения на Skillbox
